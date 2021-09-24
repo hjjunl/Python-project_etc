@@ -14,3 +14,5 @@
 - Get: ip address you pass
 - k_factory: relation
 
+![image](https://user-images.githubusercontent.com/50603209/134642841-7f8b5b28-890a-4a25-b800-93f79c64bbef.png)
+
