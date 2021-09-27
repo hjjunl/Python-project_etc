@@ -58,4 +58,3 @@ if fac_cd == 'K3' or fac_cd == 'k3':
     if 'K3 -' in K_fac_list or 'k3 -' in K_fac_list:
         print("Check the K_factory direction. Nothing found")
 print("Finished, press")
-time.sleep(4)
